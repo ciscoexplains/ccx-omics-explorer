@@ -7,7 +7,7 @@ const Header: React.FC = () => {
         <div className="w-8 h-8 bg-primary-container flex items-center justify-center rounded">
           <span className="material-symbols-outlined text-white text-xl" style={{ fontVariationSettings: "'FILL' 1" }}>science</span>
         </div>
-        <span className="text-xl font-bold tracking-tighter text-[#0B1D33] dark:text-slate-100">Omics Data Engine <span className="text-sm font-normal text-slate-500">by CiscoExplains</span></span>
+        <span className="text-xl font-bold tracking-tighter text-[#0B1D33] dark:text-slate-100">Open Source Omics Data Repository <span className="text-sm font-normal text-slate-500">by CiscoExplains</span></span>
       </div>
       <div className="flex items-center gap-4">
         <a href="https://osdr.nasa.gov" target="_blank" rel="noopener noreferrer" className="text-sm font-medium text-slate-500 hover:text-primary-container transition-colors hidden sm:block">

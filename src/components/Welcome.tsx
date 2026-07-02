@@ -31,7 +31,7 @@ const Welcome: React.FC<WelcomeProps> = ({ onExplore }) => {
           </div>
           
           <h1 className="text-5xl md:text-7xl font-bold text-[#0B1D33] tracking-tighter mb-6 leading-tight">
-            Omics Data Engine
+            Open Source Omics Data Repository
             <span className="block text-2xl md:text-3xl font-normal text-slate-500 mt-2">by CiscoExplains</span>
           </h1>
           
